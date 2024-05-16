@@ -1,7 +1,7 @@
 # PostGreSQL
 
-Component: PostGreSQL
-Lead: Paul (ISRIC)
+- Component: PostGreSQL
+- Lead: WE
 
 A relational database storage for Soilwise
 
